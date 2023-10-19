@@ -1,6 +1,6 @@
-![Yellow Civil Engineer Job LinkedIn Banner](https://imgur.com/A1KerIK)
+![Yellow Civil Engineer Job LinkedIn Banner](https://i.postimg.cc/K8PQ6yHW/fadwa.png))
 <h1 align="center">
- <img src="https://imgur.com/A1KerIK" width="30px" height="50px">
+ <img src="https://i.postimg.cc/K8PQ6yHW/fadwa.png" width="30px" height="50px">
    <strong> Hi there,I'm Fadwa Berrich welcome to my profile.</strong> 
 </h1>
 
