@@ -1,8 +1,8 @@
- ![Yellow Civil Engineer Job LinkedIn Banner](https://i.postimg.cc/K8PQ6yHW/fadwa.png))
+ ![Yellow Civil Engineer Job LinkedIn Banner](https://i.postimg.cc/K8PQ6yHW/fadwa.png)
+
 <h1 align="center">
-
-
-   <strong> Hi there,I'm Fadwa Berrich welcome to my profile.</strong> 
+   <img src="[waving-hand-emoji.png"](https://i.postimg.cc/fWSP81DG/wave.png) width="30px" height="30px" alt="Waving Hand Emoji">
+   <strong> Hi there, I'm Fadwa Berrich, welcome to my profile.</strong>
 </h1>
 
 <h3 align="center">IT engineering student from Tunisia</h3>
