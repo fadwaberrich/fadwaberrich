@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate with other developers in projects
 
-- 🥅 2023 Goals: Learn more about web
+- 🥅 2024 Goals: Learn more about web
 
 - ⚡ Fun fact **Hello**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadwaberrich&label=Profile%20views&color=0e75b6&style=flat" alt="fadwaberrich" /> </p>
