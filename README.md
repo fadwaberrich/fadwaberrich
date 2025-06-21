@@ -5,7 +5,7 @@
    <strong> Hi there, I'm Fadwa Berrich, welcome to my profile.</strong>
 </h1>
 
-<h3 align="center">IT engineering student from Tunisia</h3>
+<h3 align="center">IT engineer</h3>
 
 
 - 🎓 I’m currently studying Engineer's degree in Computer Science [ESPRIT : Ecole Sup Privée d'Ingénierie et de Technologies](https://esprit.tn/)
