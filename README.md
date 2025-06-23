@@ -8,7 +8,6 @@
 <h3 align="center">IT engineer</h3>
 
 
-- 🎓 I’m currently studying Engineer's degree in Computer Science [ESPRIT : Ecole Sup Privée d'Ingénierie et de Technologies](https://esprit.tn/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/fadwaberrich](https://github.com/fadwaberrich)
 
@@ -16,7 +15,7 @@
 
 - 👯 I’m looking to collaborate with other developers in projects
 
-- ⚡ Fun fact **Hello**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadwaberrich&label=Profile%20views&color=0e75b6&style=flat" alt="fadwaberrich" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
